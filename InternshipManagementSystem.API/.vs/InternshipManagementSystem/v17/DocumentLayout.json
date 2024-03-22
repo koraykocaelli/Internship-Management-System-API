@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\presentation\\internshipmanagementsystem.api\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|solutionrelative:presentation\\internshipmanagementsystem.api\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\presentation\\internshipmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|solutionrelative:presentation\\internshipmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\presentation\\internshipmanagementsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|solutionrelative:presentation\\internshipmanagementsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA38B02B-0BBF-4171-9EF9-801009E72E51}|Core\\InternshipManagementSystem.Application\\InternshipManagementSystem.Application.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\core\\internshipmanagementsystem.application\\features\\appuser\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA38B02B-0BBF-4171-9EF9-801009E72E51}|Core\\InternshipManagementSystem.Application\\InternshipManagementSystem.Application.csproj|solutionrelative:core\\internshipmanagementsystem.application\\features\\appuser\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\presentation\\internshipmanagementsystem.api\\controllers\\advisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19015C0-B4C1-47A0-8047-7E45B625BD6F}|Presentation\\InternshipManagementSystem.API\\InternshipManagementSystem.API.csproj|solutionrelative:presentation\\internshipmanagementsystem.api\\controllers\\advisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95EBE1B-6BB5-489A-8110-6A8D840BCB19}|Infrastructure\\InternshipManagementSystem.Persistence\\InternshipManagementSystem.Persistence.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\infrastructure\\internshipmanagementsystem.persistence\\contexts\\internshipmanagementsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95EBE1B-6BB5-489A-8110-6A8D840BCB19}|Infrastructure\\InternshipManagementSystem.Persistence\\InternshipManagementSystem.Persistence.csproj|solutionrelative:infrastructure\\internshipmanagementsystem.persistence\\contexts\\internshipmanagementsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B10CB87-146E-486F-A731-CDE90C67B37F}|Core\\InternshipManagementSystem.Domain\\InternshipManagementSystem.Domain.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\core\\internshipmanagementsystem.domain\\entities\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B10CB87-146E-486F-A731-CDE90C67B37F}|Core\\InternshipManagementSystem.Domain\\InternshipManagementSystem.Domain.csproj|solutionrelative:core\\internshipmanagementsystem.domain\\entities\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95EBE1B-6BB5-489A-8110-6A8D840BCB19}|Infrastructure\\InternshipManagementSystem.Persistence\\InternshipManagementSystem.Persistence.csproj|c:\\users\\koray\\documents\\github\\imsproject\\internshipmanagementsystem.api\\infrastructure\\internshipmanagementsystem.persistence\\migrations\\20240219204241_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95EBE1B-6BB5-489A-8110-6A8D840BCB19}|Infrastructure\\InternshipManagementSystem.Persistence\\InternshipManagementSystem.Persistence.csproj|solutionrelative:infrastructure\\internshipmanagementsystem.persistence\\migrations\\20240219204241_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\InternshipManagementSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\InternshipManagementSystem.API\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:28:07.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternshipController.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\InternshipController.cs",
+              "RelativeDocumentMoniker": "Presentation\\InternshipManagementSystem.API\\Controllers\\InternshipController.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\InternshipController.cs",
+              "RelativeToolTip": "Presentation\\InternshipManagementSystem.API\\Controllers\\InternshipController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:26:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240219204241_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Infrastructure\\InternshipManagementSystem.Persistence\\Migrations\\20240219204241_mig1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InternshipManagementSystem.Persistence\\Migrations\\20240219204241_mig1.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Infrastructure\\InternshipManagementSystem.Persistence\\Migrations\\20240219204241_mig1.cs",
+              "RelativeToolTip": "Infrastructure\\InternshipManagementSystem.Persistence\\Migrations\\20240219204241_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:42:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\InternshipManagementSystem.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\InternshipManagementSystem.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:38:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Core\\InternshipManagementSystem.Application\\Features\\AppUser\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\InternshipManagementSystem.Application\\Features\\AppUser\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Core\\InternshipManagementSystem.Application\\Features\\AppUser\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\InternshipManagementSystem.Application\\Features\\AppUser\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:52:10.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Advisor.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Core\\InternshipManagementSystem.Domain\\Entities\\Advisor.cs",
+              "RelativeDocumentMoniker": "Core\\InternshipManagementSystem.Domain\\Entities\\Advisor.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Core\\InternshipManagementSystem.Domain\\Entities\\Advisor.cs",
+              "RelativeToolTip": "Core\\InternshipManagementSystem.Domain\\Entities\\Advisor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T22:05:32.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternshipManagementSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Infrastructure\\InternshipManagementSystem.Persistence\\Contexts\\InternshipManagementSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InternshipManagementSystem.Persistence\\Contexts\\InternshipManagementSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Infrastructure\\InternshipManagementSystem.Persistence\\Contexts\\InternshipManagementSystemDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\InternshipManagementSystem.Persistence\\Contexts\\InternshipManagementSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T22:04:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvisorController.cs",
+              "DocumentMoniker": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\AdvisorController.cs",
+              "RelativeDocumentMoniker": "Presentation\\InternshipManagementSystem.API\\Controllers\\AdvisorController.cs",
+              "ToolTip": "C:\\Users\\koray\\Documents\\GitHub\\IMSProject\\InternshipManagementSystem.API\\Presentation\\InternshipManagementSystem.API\\Controllers\\AdvisorController.cs",
+              "RelativeToolTip": "Presentation\\InternshipManagementSystem.API\\Controllers\\AdvisorController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAADwv4YAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T20:58:44.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

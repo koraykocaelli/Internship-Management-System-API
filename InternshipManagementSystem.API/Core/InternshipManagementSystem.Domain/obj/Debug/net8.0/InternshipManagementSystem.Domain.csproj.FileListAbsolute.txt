@@ -1,0 +1,15 @@
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\bin\Debug\net8.0\InternshipManagementSystem.Domain.deps.json
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\bin\Debug\net8.0\InternshipManagementSystem.Domain.runtimeconfig.json
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\bin\Debug\net8.0\InternshipManagementSystem.Domain.dll
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\bin\Debug\net8.0\InternshipManagementSystem.Domain.pdb
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.sourcelink.json
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.dll
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\refint\InternshipManagementSystem.Domain.dll
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.pdb
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\InternshipManagementSystem.Domain.genruntimeconfig.cache
+C:\Users\koray\Documents\GitHub\IMSProject\InternshipManagementSystem.API\Core\InternshipManagementSystem.Domain\obj\Debug\net8.0\ref\InternshipManagementSystem.Domain.dll

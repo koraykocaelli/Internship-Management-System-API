@@ -1,0 +1,726 @@
+[
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "Get",
+    "RelativePath": "api/Advisor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "Post",
+    "RelativePath": "api/Advisor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "InternshipManagementSystem.Application.ViewModels.AdvisorViewModels.VM_Create_Advisor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "Update",
+    "RelativePath": "api/Advisor",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "InternshipManagementSystem.Application.ViewModels.AdvisorViewModels.VM_Update_Advisor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "Get",
+    "RelativePath": "api/Advisor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "Delete",
+    "RelativePath": "api/Advisor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "GetStudentsOfAdvisor",
+    "RelativePath": "api/Advisor/GetStudentsOfAdvisor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.AdvisorController",
+    "Method": "GetStudentsOfAllAdvisors",
+    "RelativePath": "api/Advisor/GetStudentsOfAllAdvisors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "CreateInternship",
+    "RelativePath": "api/Internship/CreateInternship",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AdvisorID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "StudentID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "StudentNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TC_NO",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "InternshipStartDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "InternshipEndDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Department",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "StudentGSMNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompanyName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NumberOfEmployees",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompanyPhone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompanyAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RequestedGovernmentAidAmount",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "ReceivesSalary",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "DoesNotReceiveSalary",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Gender",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ReceivesHealthInsurance",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "BirthDate",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmailSendingDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Level",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "DeleteBookByInternshipId",
+    "RelativePath": "api/Internship/DeleteBookByInternshipId",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "DeleteFile",
+    "RelativePath": "api/Internship/DeleteFile",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "DeleteFormByInternshipId",
+    "RelativePath": "api/Internship/DeleteFormByInternshipId",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "DeleteInternship",
+    "RelativePath": "api/Internship/DeleteInternship",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Internship.Commands.DeleteInternship.DeleteInternshipCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Internship/GetAllBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetAllForms",
+    "RelativePath": "api/Internship/GetAllForms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetAllInternships",
+    "RelativePath": "api/Internship/GetAllInternships",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetApplicationFormByInternshipId",
+    "RelativePath": "api/Internship/GetApplicationFormByInternshipId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetInternshipBookByInternshipId",
+    "RelativePath": "api/Internship/GetInternshipBookByInternshipId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetInternshipBookIdByInternshipId",
+    "RelativePath": "api/Internship/GetInternshipBookIdByInternshipId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetInternshipByInternshipId",
+    "RelativePath": "api/Internship/GetInternshipByInternshipId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InternshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetInternshipExcelForm",
+    "RelativePath": "api/Internship/GetInternshipExcelForm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InternshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetIntershipsAdvisorId",
+    "RelativePath": "api/Internship/GetIntershipsAdvisorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AdvisorId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "GetIntershipsByStudentId",
+    "RelativePath": "api/Internship/GetIntershipsByStudentId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "UpdateInternship",
+    "RelativePath": "api/Internship/UpdateInternship",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Internship.Commands.UpdateInternshipCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "UpdateInternshipByInternshipStatus",
+    "RelativePath": "api/Internship/UpdateInternshipByInternshipStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Internship.Commands.UpdateInternshipByInternshipStatusCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "UploadApplicationForm",
+    "RelativePath": "api/Internship/UploadApplicationForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.InternshipController",
+    "Method": "UploadInternshipBook",
+    "RelativePath": "api/Internship/UploadInternshipBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "internshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "Get",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "Post",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Student.Commands.CreateStudent.CreateStudentCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "Update",
+    "RelativePath": "api/Student",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Student.UpdateStudentCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "Delete",
+    "RelativePath": "api/Student",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Student.DeleteStudentByIdCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "AddToAdvisor",
+    "RelativePath": "api/Student/AddToAdvisor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.Application.Features.Student.Commands.AddStudentToAdvisor.AddStudentToAdvisorRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "GetStudentByAdvisorId",
+    "RelativePath": "api/Student/GetStudentByAdvisorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AdvisorId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/GetStudentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.StudentController",
+    "Method": "GetStudentByUsername",
+    "RelativePath": "api/Student/GetStudentByUsername",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "api/Test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.TestController",
+    "Method": "DownloadBook",
+    "RelativePath": "api/Test/DownloadBook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InternshipId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.TestController",
+    "Method": "Health",
+    "RelativePath": "api/Test/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.TestController",
+    "Method": "RegisterLogin",
+    "RelativePath": "api/Test/register-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InternshipManagementSystem.API.Controllers.RegisterLoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUserCommandRequest",
+        "Type": "InternshipManagementSystem.Application.Features.AppUser.Commands.CreateUser.CreateUserCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InternshipManagementSystem.API.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUserCommandRequest",
+        "Type": "InternshipManagementSystem.Application.Features.AppUser.Commands.LoginUser.LoginUserCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "InternshipManagementSystem.Persistence": {
+      "commandName": "Project"
+    }
+  }
+}
